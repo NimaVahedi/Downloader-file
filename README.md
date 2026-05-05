@@ -76,9 +76,3 @@
 </div>
 
 ---
-
-## Files downloaded to your GitHub
-
-1. [sharkord-windows-x64](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/sharkord-windows-x64)
-
----
