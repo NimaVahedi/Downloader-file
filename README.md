@@ -83,10 +83,14 @@
 
 ---
 
+---
+
 ## Files downloaded to your GitHub
 
 1. [VSCodeUserSetup-x64-1.119.0](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/VSCodeUserSetup-x64-1.119.0)
 
-2. [pdfjs-5.7.284-dist](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/pdfjs-5.7.284-dist)
+2. [continue-win32-x64-1.2.22](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/continue-win32-x64-1.2.22)
+
+3. [pdfjs-5.7.284-dist](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/pdfjs-5.7.284-dist)
 
 ---
