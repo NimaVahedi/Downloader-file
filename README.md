@@ -10,7 +10,7 @@
 ---
 
 🎬 **برای دانلود ویدیوهای یوتیوب از پروژه اختصاصی زیر استفاده کنید:**  
-🔗 [YouTube Downloader]([https://github.com/amiraction/youtube-dl](https://github.com/amiraction0938/YT-dl))
+🔗 [YouTube Downloader](https://github.com/amiraction0938/YT-dl)
 
 ---
 
