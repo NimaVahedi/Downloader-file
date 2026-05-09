@@ -76,23 +76,3 @@
 </div>
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## Files downloaded to your GitHub
-
-1. [spotdl-4.4.4-win32](https://github.com/amiraction0938/Downloader-file/tree/main/downloads/spotdl-4.4.4-win32)
-
----
